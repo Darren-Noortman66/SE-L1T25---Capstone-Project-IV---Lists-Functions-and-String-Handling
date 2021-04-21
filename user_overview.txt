@@ -1,0 +1,68 @@
+The total number of users registered with task_manager.py:						9
+The total number of tasks that have been generated and tracked using the task_manager.py:		6
+
+	Information on each user:
+
+	admin
+	The total number of tasks assigned to user:						1
+	Percentage of the total number of tasks that have been assigned to user:		17%
+	Percentage of the user's tasks that have been completed:				100%
+	Percentage of the user's tasks that have not been completed:				0%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
+	darren
+	The total number of tasks assigned to user:						3
+	Percentage of the total number of tasks that have been assigned to user:		50%
+	Percentage of the user's tasks that have been completed:				67%
+	Percentage of the user's tasks that have not been completed:				33%
+	Percentage of the user's tasks that have not been completed AND are overdue:		33%
+
+	jack
+	The total number of tasks assigned to user:						1
+	Percentage of the total number of tasks that have been assigned to user:		17%
+	Percentage of the user's tasks that have been completed:				0%
+	Percentage of the user's tasks that have not been completed:				100%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
+	linda
+	The total number of tasks assigned to user:						0
+	Percentage of the total number of tasks that have been assigned to user:		0%
+	Percentage of the user's tasks that have been completed:				0%
+	Percentage of the user's tasks that have not been completed:				0%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
+	johny
+	The total number of tasks assigned to user:						0
+	Percentage of the total number of tasks that have been assigned to user:		0%
+	Percentage of the user's tasks that have been completed:				0%
+	Percentage of the user's tasks that have not been completed:				0%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
+	rick
+	The total number of tasks assigned to user:						0
+	Percentage of the total number of tasks that have been assigned to user:		0%
+	Percentage of the user's tasks that have been completed:				0%
+	Percentage of the user's tasks that have not been completed:				0%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
+	bontle
+	The total number of tasks assigned to user:						0
+	Percentage of the total number of tasks that have been assigned to user:		0%
+	Percentage of the user's tasks that have been completed:				0%
+	Percentage of the user's tasks that have not been completed:				0%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
+	dick
+	The total number of tasks assigned to user:						0
+	Percentage of the total number of tasks that have been assigned to user:		0%
+	Percentage of the user's tasks that have been completed:				0%
+	Percentage of the user's tasks that have not been completed:				0%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
+	ashton
+	The total number of tasks assigned to user:						1
+	Percentage of the total number of tasks that have been assigned to user:		17%
+	Percentage of the user's tasks that have been completed:				0%
+	Percentage of the user's tasks that have not been completed:				100%
+	Percentage of the user's tasks that have not been completed AND are overdue:		0%
+
